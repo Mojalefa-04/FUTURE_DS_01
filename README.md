@@ -1,10 +1,14 @@
-# 📊 Business Sales Performance Analysis
+#  Business Sales Performance Analysis
+
+**Author:** [Mojalefa-04](https://github.com/Mojalefa-04)  
+**Created:** March 2026
+
 
 A comprehensive analysis of business sales data covering revenue trends, product performance, category insights, regional distribution, and customer segmentation. This repository contains Python-generated visualizations and a Tableau dashboard for interactive exploration.
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project analyzes sales performance data from December 2010 to December 2011, providing actionable insights across multiple business dimensions:
 
@@ -32,7 +36,7 @@ The main interactive dashboard includes:
 
 ## 👥 Customer Segmentation & RFM Analysis
 
-![Customer Segmentation Analysis](customer_segmentation.png)
+![Customer Segmentation Analysis](python_viz/customer_segmentation.png)
 
 ### Key Customer Insights
 
@@ -60,24 +64,24 @@ The RFM (Recency, Frequency, Monetary) heatmap reveals:
 
 ---
 
-## 📊 Supporting Analysis Charts
+##  Supporting Analysis Charts
 
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;📈 Revenue Trends Analysis&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b> Revenue Trends Analysis</b></summary>
 
-![Revenue Trends](revenue_trends.png)
+![Revenue Trends](python_viz/revenue_trends.png)
 
 **Key Insights:**
 - **Peak Month**: November 2011 (£1,132,407.74) — Holiday shopping surge
 - **Best Day**: Thursday (£1,906,108.19) — Mid-week peak performance
 - **Peak Hour**: 12:00 PM (£1,337,091.77) — Lunch-time shopping spike
 - **Seasonality**: Strong Q4 performance with December drop-off (likely data cutoff)
-&lt;/details&gt;
+</details>
 
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;🏆 Top-Selling Products&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b> Top-Selling Products</b></summary>
 
-![Top Products](top_products.png)
+![Top Products](python_viz/top_products.png)
 
 **Top 5 by Revenue:**
 | Rank | Product | Revenue |
@@ -96,31 +100,31 @@ The RFM (Recency, Frequency, Monetary) heatmap reveals:
 | 3 | ASSORTED COLOUR BIRD ORNAMENT | 35,314 |
 | 4 | WHITE HANGING HEART T-LIGHT HOLDER | 34,147 |
 | 5 | PACK OF 72 RETROSPOT CAKE CASES | 33,409 |
-&lt;/details&gt;
+</details>
 
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;📦 Category Analysis&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b> Category Analysis</b></summary>
 
-![Category Analysis](category_analysis.png)
+![Category Analysis](https://github.com/Mojalefa-04/FUTURE_DS_01/blob/main/python_viz/category_analysis.png)
 
 **Key Insights:**
 - **Top Revenue Category**: Other (£2,465,318.63) — 29.7% market share
 - **Highest Avg Transaction**: Frames & Decor (£30.58)
 - **Volume Leader**: Other category (1,464,192 units)
 - **Price-Volume Matrix**: Low-price/High-volume products drive majority of revenue
-&lt;/details&gt;
+</details>
 
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;🌍 Regional Performance&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b> Regional Performance</b></summary>
 
-![Regional Analysis](regional_analysis.png)
+![Regional Analysis](python_viz/regional_analysis.png)
 
 **Key Insights:**
 - **Dominant Market**: United Kingdom (£6,767,873.39, 81.5% of total revenue)
 - **Highest Revenue per Customer**: EIRE (£83,428.41)
 - **Most Active Customers**: EIRE (106.3 orders per customer)
 - **Top International Markets**: Netherlands (£285K), EIRE (£250K), Germany (£222K)
-&lt;/details&gt;
+</details>
 
 ---
 
@@ -134,8 +138,16 @@ The RFM (Recency, Frequency, Monetary) heatmap reveals:
 | **Data Source** | [Online Retail Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset) |
 
 ---
+## 📧 Contact
 
-## 🚀 Getting Started
+For questions or collaboration:
+
+- **GitHub:** [@Mojalefa-04](https://github.com/Mojalefa-04)
+- **Email:** progresmokhathi@gmail.com
+- **LinkedIn:** [Mojalefa Mokhathi](https://www.linkedin.com/in/mojalefa-mokhathi-81540224a)
+
+---
+##  Getting Started
 
 ### Prerequisites
 ```bash
